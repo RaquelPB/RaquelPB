@@ -29,7 +29,7 @@
 
 ###
 
-<h4 align="center">🎓 Formada em Análise e Desenvolvimento de Sistemas (ADS)<br><br>💻 Atualmente atuando como freelancer, explorando projetos diferentes e desafiadores.<br><br>⚡ Viciada em energético — meu combustível oficial para programar madrugada adentro.<br><br>🔍 Curiosa por natureza, sempre buscando aprender algo novo (tecnologia ou não).<br><br><br>## 💻 Tecnologias e Ferramentas<br><br><br>**Linguagens:** JavaScript, TypeScript, Python, Java <br>**Front-end:** React.js, Next.js, HTML, CSS <br>**Back-end:** Spring Boot, Node.js, Express <br>**Banco de Dados:** PostgreSQL, MySQL <br>**Versionamento:** Git & GitHub ---</h4>
+<h4 align="center">🎓 Formada em Análise e Desenvolvimento de Sistemas (ADS)<br><br>💻 Atuando como autônoma/freelancer, explorando projetos diferentes e desafiadores.<br><br>⚡ Viciada em energético — meu combustível oficial para programar madrugada adentro.<br><br>🔍 Curiosa por natureza, sempre buscando aprender algo novo (tecnologia ou não).<br><br><br>## 💻 Tecnologias e Ferramentas<br><br><br>**Linguagens:** JavaScript, TypeScript, Python, Java <br>**Front-end:** React.js, Next.js, HTML, CSS <br>**Back-end:** Spring Boot, Node.js, Express <br>**Banco de Dados:** PostgreSQL, MySQL <br>**Versionamento:** Git & GitHub ---</h4>
 
 ###
 
